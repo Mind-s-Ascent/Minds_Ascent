@@ -19,7 +19,7 @@ Minds_Ascent — это веб-приложение чат-бота, предн�
 
 ```bash
 git clone https://github.com/Mind-s-Ascent/Minds_Ascent.git
-cd Minds_Ascent
+cd Minds_Ascent/chatbot/django_chatbot
 ```
 
 2. Создание и активация виртуальной среды:
