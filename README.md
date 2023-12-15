@@ -1,4 +1,4 @@
-# Minds_Ascent
+# Mind's Ascent
 
 ## Описание проекта
 
