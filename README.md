@@ -26,29 +26,29 @@ cd Minds_Ascent
 
 Для пользователей Windows:
 
-\`\`\`bash
+```bash
 python -m venv venv
 venv\\Scripts\\activate
-\`\`\`
+```
 
 Для пользователей Unix или MacOS:
 
-\`\`\`bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
-\`\`\`
+```
 
 3. Установка зависимостей:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 4. Запуск сервера Django:
 
-\`\`\`bash
+```bash
 python manage.py runserver
-\`\`\`
+```
 
 После запуска сервера, веб-приложение будет доступно по адресу \`http://127.0.0.1:8000/\` в вашем браузере.
 
